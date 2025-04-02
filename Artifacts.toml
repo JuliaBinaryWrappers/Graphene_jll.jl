@@ -1,143 +1,160 @@
 [[Graphene]]
 arch = "aarch64"
-git-tree-sha1 = "d5dd186e310243c15930018a05270e56b934da71"
+git-tree-sha1 = "e1434dbb9a335cdfc25b07a8c3c09f4e0ac9e374"
 os = "macos"
 
     [[Graphene.download]]
-    sha256 = "03dd257c8b7df2fef4a39f3d3d2b55c3acf732543e8fb026da862edefe5dc193"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "fa3e1d3461c7d7acfa76d7f2b8108709bdad459a5731ef980fb1d0e81566dd0c"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.aarch64-apple-darwin.tar.gz"
 [[Graphene]]
 arch = "aarch64"
-git-tree-sha1 = "81966d2a27665c5b88ee0bd31283f8f0f564a01e"
+git-tree-sha1 = "da2a2cd941f22a7dbf5d330941e43292a3e52947"
 libc = "glibc"
 os = "linux"
 
     [[Graphene.download]]
-    sha256 = "53b902bca4ecd794c6ba2a664bfb5ec5240244f7033372c1b43ebfe36adfd05c"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "fd335c2057237aeeede091e61eae78cea47944842e79925408cfbd924b8eed62"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.aarch64-linux-gnu.tar.gz"
 [[Graphene]]
 arch = "aarch64"
-git-tree-sha1 = "d60e9a4551e8fc98e6ce3616461544260e36ffeb"
+git-tree-sha1 = "52a0662572a2a3a177076c874e7ebba3fac0e8aa"
 libc = "musl"
 os = "linux"
 
     [[Graphene.download]]
-    sha256 = "492ee65494ecc91e63866466ef6a75633ba65c522a0e3aa474903f1893cef743"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.aarch64-linux-musl.tar.gz"
+    sha256 = "6735835e5f73d004ab89c0860f2bad621f456d61d930b7cef6fa8a7027e26ad3"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.aarch64-linux-musl.tar.gz"
 [[Graphene]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "d53111dd5609b3f5a0fd08da2a584c2e72051f17"
-libc = "glibc"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "7986ed74cc9d78ad007ea03eaaf534b0971983a073eedba6db42075d7abf31cf"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.armv6l-linux-gnueabihf.tar.gz"
-[[Graphene]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "35fa47d84aeac136671dc1342920d8b57663ddb0"
-libc = "musl"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "3795cedc2fb07f70f6f48a0666c7d1762a445ce2b4fe711778497a2131d1eb71"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.armv6l-linux-musleabihf.tar.gz"
-[[Graphene]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "e55f57a6cc1c11b94f514239701c80eeb89d12f6"
-libc = "glibc"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "920b357dcc326c426874cb0b015ade63cdde44f3afc260c4800c5c14a3194fd5"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.armv7l-linux-gnueabihf.tar.gz"
-[[Graphene]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "d72ddb7cd318c6b0b2850ccaaca091bd76aa8ed4"
-libc = "musl"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "95e2bca1d07be871e74f8d26df85e24d73c9cc1396eb66f4ef44745e64735834"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.armv7l-linux-musleabihf.tar.gz"
-[[Graphene]]
-arch = "i686"
-git-tree-sha1 = "d9e0d9c3081687743cd6dd67d4e21a6288191feb"
-libc = "glibc"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "30943c88419e5760a60b2a7bc4ff31d84003339644a29aede4c942cb74089841"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.i686-linux-gnu.tar.gz"
-[[Graphene]]
-arch = "i686"
-git-tree-sha1 = "45e251a69bd2fed708c27980a141916c2bcca7ad"
-libc = "musl"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "0dbc6762ad7d9ae467cf0c5bfe79ed9e2be001b74c2243b1cb42d6eae5f2ded6"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.i686-linux-musl.tar.gz"
-[[Graphene]]
-arch = "i686"
-git-tree-sha1 = "bc9fda0dd7addfffc4a6d4dd0a77b5210e9dc695"
-os = "windows"
-
-    [[Graphene.download]]
-    sha256 = "631526320b4ce99229be2eb528b45494f9570835b7d36af6fc4cc2ac4fc7bbf1"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.i686-w64-mingw32.tar.gz"
-[[Graphene]]
-arch = "powerpc64le"
-git-tree-sha1 = "3d90bdd3b88871708a6a65523c8eb0a6ae2406e3"
-libc = "glibc"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "0040bf71cd367c16ef1ec4609aefcab98224fd3e07e7cc1b60be5c7e0271a3d4"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.powerpc64le-linux-gnu.tar.gz"
-[[Graphene]]
-arch = "x86_64"
-git-tree-sha1 = "c0a556cb3fb267666ad920028513de578bc941d5"
-os = "macos"
-
-    [[Graphene.download]]
-    sha256 = "5a268646d38ace53cc69e76834d9fcd7b191293b70e1e5d8098f7f06823571ec"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.x86_64-apple-darwin.tar.gz"
-[[Graphene]]
-arch = "x86_64"
-git-tree-sha1 = "c837179fd6f03533451abc7b46808cb543e819c5"
-libc = "glibc"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "04b1536fc08cf1b0a0673eec11d315705eb2eb230db17f174c848053dbf0c0cd"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.x86_64-linux-gnu.tar.gz"
-[[Graphene]]
-arch = "x86_64"
-git-tree-sha1 = "5586e9ed5b7189984f187309eb24f40ef313f130"
-libc = "musl"
-os = "linux"
-
-    [[Graphene.download]]
-    sha256 = "027bc26445f6bd3c883cbd16f868564c601dcddd063652dca46bd693fc076c05"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.x86_64-linux-musl.tar.gz"
-[[Graphene]]
-arch = "x86_64"
-git-tree-sha1 = "6fe3e5e168308b045aa84e561b63aee9be0a409f"
+arch = "aarch64"
+git-tree-sha1 = "e596e5664cdc65670ebc2829e048ba8bdcda890c"
 os = "freebsd"
 
     [[Graphene.download]]
-    sha256 = "d7013ee04b114b3da32f6dfc9e6780ced12e861d1d212cc174469ff84b582416"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "1794a4788c564deb99fb48ba62f3d8c96a1e70958e4010ab4fe5085a065ec8f5"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.aarch64-unknown-freebsd.tar.gz"
 [[Graphene]]
-arch = "x86_64"
-git-tree-sha1 = "035800bb2411aeee6ab9d8224c19d313c6463d0f"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b9f74366c12e09365767938a5d8254badf6d1514"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "8699a9c336711d9732098c541442c5b4b72a07c041bbe739f00c71435ec4cc72"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.armv6l-linux-gnueabihf.tar.gz"
+[[Graphene]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e08a8cbabfb473b13dd41383d8f4aa4ed51b233b"
+libc = "musl"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "9498ec00d66ea02a7560e191d6131c5091af874a87308ffe037806a7ea0acd04"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.armv6l-linux-musleabihf.tar.gz"
+[[Graphene]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "551945bd3dcabbbc77acdc919800c4d819ec7ecc"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "b86ddb03bb5d02b1d2d0f5df956d819eb23c6c7559d78c4057d5286cdd9f786f"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.armv7l-linux-gnueabihf.tar.gz"
+[[Graphene]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e51757eb8847e7720f8b78dd2083564590880ea"
+libc = "musl"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "70601937bf84700f19c6cb5ec5d8f11164e1c5e405330d0468ed4e0d826b8183"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.armv7l-linux-musleabihf.tar.gz"
+[[Graphene]]
+arch = "i686"
+git-tree-sha1 = "d3c91a84613aee2d220dc080014c7214f77df714"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "ec4bfd0093245a0d59c0b01f8794b5328c045840a9dbef38e0042ffd3480d616"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.i686-linux-gnu.tar.gz"
+[[Graphene]]
+arch = "i686"
+git-tree-sha1 = "a447d2d4ddce3d121cf82bd895473b4d50c7a701"
+libc = "musl"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "27135e7439b448a6b2cac2acf5bc3290b0a1d52e4fa1256129a0d517fd11f624"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.i686-linux-musl.tar.gz"
+[[Graphene]]
+arch = "i686"
+git-tree-sha1 = "337a2b556775885daf5bbadb49fdb2d637724670"
 os = "windows"
 
     [[Graphene.download]]
-    sha256 = "450a37b3b0aa2949e545ad31fe9f5481041bfb0669ecb98a2def85424c2a91d7"
-    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.6+0/Graphene.v1.10.6.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cfb0682fe27e6a41b62aa5067036fd576fa1514d508cb3382229167c56acc2f1"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.i686-w64-mingw32.tar.gz"
+[[Graphene]]
+arch = "powerpc64le"
+git-tree-sha1 = "f02535498e18beb037b47ab678fdcf75318322f2"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "76b778f0782a6651992cbee13aceeaa8da0e6f6560436d17a9fdf582b8da22bc"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.powerpc64le-linux-gnu.tar.gz"
+[[Graphene]]
+arch = "riscv64"
+git-tree-sha1 = "1323bc08a48349d977cd9cbfb71eff1431b7c358"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "3c837f6162dba67728db350c12da8964d964be547720e5277d9521e1e21b75ff"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.riscv64-linux-gnu.tar.gz"
+[[Graphene]]
+arch = "x86_64"
+git-tree-sha1 = "0cb9af685c5dae9dec6b2e4a46e9502d678fc576"
+os = "macos"
+
+    [[Graphene.download]]
+    sha256 = "ab49eec7dffaba09499e1b17edb2808b1c124b3071234c2f23ec410382d2dbe9"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.x86_64-apple-darwin.tar.gz"
+[[Graphene]]
+arch = "x86_64"
+git-tree-sha1 = "2eecfa403c0323adf86813b2d758002ec7ba0878"
+libc = "glibc"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "0aa0214554b97cd47a5d31af955809a1d442f5990cf06928d246f4f76ceb0149"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.x86_64-linux-gnu.tar.gz"
+[[Graphene]]
+arch = "x86_64"
+git-tree-sha1 = "2ad08847b3f908efb4dfac7b7f5285f9907e3335"
+libc = "musl"
+os = "linux"
+
+    [[Graphene.download]]
+    sha256 = "31296085b304982dc21e994f907808643777c7df2d437dc604babb9508a54248"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.x86_64-linux-musl.tar.gz"
+[[Graphene]]
+arch = "x86_64"
+git-tree-sha1 = "db731d404daf42f64fe51856800e0c51d3a2c2e2"
+os = "freebsd"
+
+    [[Graphene.download]]
+    sha256 = "92d11ce020098c9a8baafb0d0b325ff5e6c46b99a292a2db7695997158715f61"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.x86_64-unknown-freebsd.tar.gz"
+[[Graphene]]
+arch = "x86_64"
+git-tree-sha1 = "5506aff39de51dbf198d112b8deb32372c726de0"
+os = "windows"
+
+    [[Graphene.download]]
+    sha256 = "f68b6277993eeae9e0e1c1f790c00370b7349093be43758c8d9ff70d3d15747d"
+    url = "https://github.com/JuliaBinaryWrappers/Graphene_jll.jl/releases/download/Graphene-v1.10.8+0/Graphene.v1.10.8.x86_64-w64-mingw32.tar.gz"
